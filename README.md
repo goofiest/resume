@@ -21,7 +21,6 @@
 
 * 熟悉 Linux 操作系统。
 * 了解mysql的crud简单操作。
-* 了解 TCP / IP 协议。
 
 
 
