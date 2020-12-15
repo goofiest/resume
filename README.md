@@ -17,11 +17,10 @@
 ***
 
 * 了解常见的web漏洞及原理。
+* 会简单使用sqlmap，dirsearch，awvs，Burp Suite等工具。
 * 了解Java基础。
 * 熟悉 Linux 操作系统。
-* 了解mysql的crud简单操作。
-
-
+* 会运用mysql的CRUD简单操作。
 
 ### 校园经历
 
